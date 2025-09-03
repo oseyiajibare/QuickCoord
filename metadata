@@ -1,0 +1,16 @@
+[general]
+name=QuickCoord
+qgisMinimumVersion=3.0
+qgisMaximumVersion=4.0
+description=QuickCoord - digitize polygons by coordinates with live preview and accurate commit behavior
+version=1.0
+author=Seyi Ajibare
+email=oseyiajibare@gmail.com
+about=Digitizing tool for QGIS that allows users to choose between hole creation or inner feature creation, with snapping support and editing safeguards.
+icon=icon.png
+homepage=https://github.com/oseyiajibare/QuickCoord
+tracker=https://github.com/oseyiajibare/QuickCoord/issues
+repository=https://github.com/oseyiajibare/QuickCoord
+tags=polygon,editing,hole,inner feature,snapping,land administration,surveying,qgis,delineation,digitizing
+experimental=False
+deprecated=False
